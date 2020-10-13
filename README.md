@@ -16,8 +16,8 @@ Google-ASR system is not free, the fee of Google-ASR system is [here](https://cl
 - <pre><code>export GOOGLE_APPLICATION_CREDENTIALS={path of json file}</code></pre>
 
 ## Directory Format
-- Put wav file and content in same directory.
-- The name of wav file and groundtruth must be same. e.g. test.wav & test.txt
+- Put wav files and contents in same directory.
+- The name of wav file and content must be same. e.g. test.wav & test.txt
 
 ## Details
 - Compute with lower characters and no punctuations.
