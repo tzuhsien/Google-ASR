@@ -1,4 +1,7 @@
 # Google-ASR Metric
+Use Google-ASR system as a metric to evalute the quality of wav file.
+Need wav file and content.
+Google-ASR system is not free, the fee os Google-ASR system is [here](https://cloud.google.com/speech-to-text/pricing).
 ## Packages
 - google.cloud
 - librosa
